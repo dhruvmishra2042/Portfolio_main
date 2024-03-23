@@ -29,7 +29,7 @@ import { default as nodejs } from "./assets/icons/nodejs.svg";
 import { default as firebase } from "./assets/icons/firebase.svg";
 
 
-import re from "/home/dhruv/Desktop/Portfolio_m/src/assets/icons/c++.svg";
+import re from "./assets/icons/c++.svg";
 const data = {
   languages: [
     

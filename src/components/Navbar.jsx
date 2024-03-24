@@ -10,7 +10,7 @@ const Navbar = () => {
       <div className="mx-auto justify-between px-4 md:flex md:items-center lg:max-w-7xl">
         <div>
           <div className="flex items-center justify-between py-3 md:block md:py-5">
-            <a href="#">
+            <a href="https://github.com/dhruvmishra2042">
               <h2 className="font-impact text-3xl">
                 <span className="text-primary">&lt;D</span>Mishra
                 <span className="text-primary">/&gt; </span>

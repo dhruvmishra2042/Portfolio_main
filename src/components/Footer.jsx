@@ -12,7 +12,7 @@ const Footer = () => {
         Contact Me
       </h1>
       <div className="w-full md:flex md:flex-row md:justify-between md:gap-5 md:px-4">
-        <a href="#">
+        <a href="https://github.com/dhruvmishra2042">
           <h2 className="font-impact text-3xl">
             <span className="text-primary">&lt;D</span>Mishra
             <span className="text-primary">/&gt; </span>
